@@ -1,10 +1,10 @@
 <script>
-  import logo from "#lib/assets/images/Logo.jpeg?enhanced";
+  import logo from '#lib/assets/images/Logo.jpeg?enhanced';
 </script>
 
 <header>
   <a href="/">
-    <enhanced:img src={logo} alt="Logo" />
+    <enhanced:img src={logo} alt="Website logo" />
   </a>
 
   <button>
@@ -46,11 +46,11 @@
       justify-self: center;
       align-items: center;
       cursor: pointer;
-      font-size: 1rem;
+      font-size: var(--font-size-s);
       background: 0 0;
       border: none;
-      gap: 0.25rem;
-      padding: 1rem;
+      gap: var(--spacing-2xs);
+      padding: var(--spacing-m);
     }
   }
 </style>
