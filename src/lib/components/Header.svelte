@@ -1,5 +1,5 @@
 <script>
-  import logo from '#lib/assets/images/Logo.jpeg?enhanced';
+  import logo from '#lib/assets/images/new-logo.png?enhanced';
 </script>
 
 <header>
@@ -35,7 +35,7 @@
     a {
       img {
         width: 100%;
-        max-width: 10rem;
+        max-width: 8.5rem;
         height: auto;
       }
     }

@@ -27,11 +27,11 @@
 
   --primary: #965568;
   --secondary: #192538;
-  --tertiary-text: #c8b28d;
+  --tertiary: #c8b28d;
 
-  --brakcground-primary: #fafbf6;
+  --background-primary: #fafbf6;
   --secondary-background: #f3e8e6;
-  --tertiary: #172639;
+  --tertiary-background: #172639;
 }
 
 body {
