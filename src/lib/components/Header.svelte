@@ -99,15 +99,6 @@
     justify-content: space-between;
     background-color: var(--background-primary);
 
-    /* Menu knop */
-    .menu-button {
-      background-color: var(--blue);
-      color: black;
-      text-decoration: none;
-      padding: 0.2rem 0.5rem;
-      border-radius: 0.5rem;
-    }
-
     /* Logo */
     a:nth-of-type(2) {
       img {
@@ -117,6 +108,7 @@
       }
     }
 
+    /* Menu knop */
     a {
       display: flex;
       flex-direction: column;
@@ -128,6 +120,7 @@
       border: none;
       gap: var(--spacing-2xs);
       padding: var(--spacing-m);
+      color: black;
     }
 
     /* Navigatie menu */
