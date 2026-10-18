@@ -13,7 +13,9 @@
 </svelte:head>
 
 <Header />
-<Footer />
+
 <main>
   {@render children()}
 </main>
+
+<Footer />

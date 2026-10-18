@@ -41,7 +41,7 @@
       >
       <p>INSTAGRAM</p>
     </a>
-    <a href="mailto:voorbeeld@voorbeeld.com">
+    <a href="mailto:Kezbanarslan@yahoo.com">
       <svg
         viewBox="0 0 24 24"
         width="35"
